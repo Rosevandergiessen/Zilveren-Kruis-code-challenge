@@ -306,6 +306,22 @@
                                             Vrouw
                                         </label>
                                     </div>
+                                    <div
+                                        class="radio custom-radio radio__option"
+                                    >
+                                        <input
+                                            id="x"
+                                            class="radio__input custom-control-input"
+                                            type="radio"
+                                            name="geslacht"
+                                        />
+                                        <label
+                                            class="radio__label custom-control-label"
+                                            for="x"
+                                        >
+                                            X
+                                        </label>
+                                    </div>
                                 </div>
                             </div>
                         </div>
